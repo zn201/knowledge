@@ -1,0 +1,7 @@
+E:\Study\JsonTest\JsonTest\bin\Debug\JsonTest.exe.config
+E:\Study\JsonTest\JsonTest\bin\Debug\JsonTest.exe
+E:\Study\JsonTest\JsonTest\bin\Debug\JsonTest.pdb
+E:\Study\JsonTest\JsonTest\bin\Debug\Newtonsoft.Json.dll
+E:\Study\JsonTest\JsonTest\bin\Debug\Newtonsoft.Json.xml
+E:\Study\JsonTest\JsonTest\obj\Debug\JsonTest.exe
+E:\Study\JsonTest\JsonTest\obj\Debug\JsonTest.pdb
